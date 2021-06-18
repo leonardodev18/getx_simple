@@ -1,2 +1,2 @@
 # getx_simple
- A simple demonstration of Getx use.
+ A simple demonstration of Getx use in Flutter.
